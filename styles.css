@@ -1,0 +1,22 @@
+.container {
+    margin: 50px auto;
+    max-width: 500px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.flash-message {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-top: 20px;
+}
